@@ -1,6 +1,6 @@
 Flask
-gunicon
-Jinja2
-sckit-learn
-pandas
-numpy
+gunicon==19.9.0
+Jinja2==2.10.1
+sckit-learn>=1.4.3
+pandas>=0.19
+numpy>=0.19
