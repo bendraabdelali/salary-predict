@@ -1,0 +1,6 @@
+Flask
+gunicon
+Jinja2
+sckit-learn
+pandas
+numpy
