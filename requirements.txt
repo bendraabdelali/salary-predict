@@ -1,7 +1,7 @@
 Flask
 gunicorn>=19.0.0
 Jinja2==2.10.1
-sckit-learn>=1.4.3
+scikit-learn
 pandas>=0.19
 numpy>=0.19
 
